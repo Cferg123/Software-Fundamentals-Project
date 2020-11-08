@@ -1,0 +1,19 @@
+Software requirements:
+
+	Windows, Linux or Mac operating system
+	
+	Python interpreter
+
+	The following Python libraries:
+		csv
+		time
+		os
+		string
+		tkinter
+		requests
+
+all are built-in modules (no installation needed) except requests:
+
+enter the following into command line to install requests library:
+
+pip install requests
